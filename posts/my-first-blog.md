@@ -34,26 +34,23 @@ Each idea targets a different user group with distinct needs, motivations, and c
 ---
 
 Study community (University students) 
- 
+
 This idea targets university students who need structured support for studying, such as sharing notes, managing deadlines, and staying motivated. Their key pain points include procrastination, lack of accountability, and difficulty maintaining focus.  
 While this aligns well with user needs, many existing platforms already address similar problems. This makes it challenging to create a unique experience that encourages long-term engagement.   
 
 ---
-
 Anonymous emotional support community (Young adults / stressed users) 
- 
-This idea focuses on young adults who may experience stress, anxiety, or emotional pressure and prefer a safe, anonymous space to express themselves.  
+
+This idea focuses on young adults who may experience stress, anxiety, or emotional pressure and prefer a safe, anonymous space to express themselves. 
 Their needs include emotional validation, privacy, and a sense of belonging. Designing for anonymity could increase participation, but also requires careful moderation and trust-building.  
 
 ---
-
 Creative accountability community (Students / young creatives) 
- 
+
 This idea targets students or young creatives who want to build consistent creative habits, such as drawing, writing, or designing. Their main challenge is maintaining motivation and consistency over time.    
 A community-based system with daily check-ins, progress sharing, and peer encouragement could strongly support engagement and retention. This aligns well with the brief’s focus on experience and interaction.  
 
 ---
-
 Travel community (Young travelers / planners)  
 
 This idea focuses on young travelers who are planning trips and looking for shared experiences, tips, and recommendations. Their needs include reliable information, inspiration, and personalized advice.  
@@ -66,6 +63,7 @@ Through this evaluation, I realized that a strong concept must balance three key
 ---
 ### Next Steps  
 
+Moving forward, I plan to further refine and compare these ideas through discussion. When selecting a final concept, it will be important to consider feasibility, user needs, and interest.  
 I will also begin exploring user research methods to better understand the selected community, such as analyzing existing platforms and identifying user behaviors and expectations. This will help ensure that the design is grounded in real user insights rather than assumptions. 
 
 ---
