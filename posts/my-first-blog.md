@@ -32,7 +32,6 @@ Generating a diverse set of ideas also helps reveal different design opportuniti
 Each idea targets a different user group with distinct needs, motivations, and challenges. Evaluating these aspects helps determine how well each concept aligns with the project brief.    
 
 ---
-
 Study community (University students) 
 
 This idea targets university students who need structured support for studying, such as sharing notes, managing deadlines, and staying motivated. Their key pain points include procrastination, lack of accountability, and difficulty maintaining focus.  
