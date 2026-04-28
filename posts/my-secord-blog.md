@@ -45,8 +45,7 @@ A key feature is the repeated encounter system, which informs users if they have
 
 To structure the development process, we divided the concept into smaller tasks using a ticket-based approach. This allows clearer planning and more manageable implementation.  
 
-The core tasks include:  
-- Anonymous identity generation  
+The core tasks include:   
 - Random room matching  
 - Room creation and joining  
 - Chat interaction system  
