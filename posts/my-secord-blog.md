@@ -1,5 +1,5 @@
 ---
-title: My-First-Blog
+title: My-Secord-Blog
 date: 2026-04-19
 author: Jingru Qu
 summary: Discussed and evaluated ideas, selected the anonymous emotional support community concept, defined target users, and planned development using a ticket-based task breakdown.
