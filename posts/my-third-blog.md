@@ -5,14 +5,15 @@ author: Jingru Qu
 summary: This week focuses on developing a wireframe that structures anonymous social interaction through a multi-page interface, preparing the design for future implementation as an interactive prototype.
 tags:
   - wireframe
-  - nonymous interaction
+  - anonymous interaction
 ---
 ### Introduction
 This week focuses on developing the system into a wireframe and organising the user experience through a clear page structure. At this stage, the design does not emphasise visual detail, but instead focuses on how users move between different interaction stages. The overall goal is to construct a low-pressure, flexible, and anonymous social system that allows users to interact without burden or social expectation.
 
+---
 This is our wireframe:
 ![alt text](../images/wireframe.png)
---- 
+---
 ### Entry Page
 The entry page acts as the first point of contact with the system. It adopts a minimal design strategy by reducing visual and interactive elements to lower cognitive load. Users can enter the system quickly without complex steps or decision-making processes, which reduces the barrier to entry. This design strengthens the “instant access” experience and increases the likelihood of user engagement.
 
