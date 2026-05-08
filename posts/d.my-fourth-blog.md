@@ -12,7 +12,6 @@ tags:
 This week focuses on organising the anonymous chat system into DDD and ERD structures. Instead of mainly thinking about interface layout, the process begins to focus on what information the system needs to store and how different pages connect together. Through this process, the project starts moving from a visual wireframe into a more complete system structure.
 
 ---
-
 ### Entry Page
 
 ![alt text](../images/DDD1.png)
