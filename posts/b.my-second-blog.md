@@ -7,9 +7,7 @@ summary: Discussed and evaluated ideas, selected the anonymous emotional support
 ### Final Idea Selection  
 
 After exploring multiple ideas in Week 6, our group selected the anonymous emotional support community as the final concept after discussion and comparison. The decision was based on three key factors: clarity of user needs, uniqueness of interaction, and feasibility for development.   
-
 This concept targets users who prefer low-pressure and anonymous interaction, especially those who feel uncomfortable revealing their identity online. These users may feel socially fatigued, avoid traditional social media, or simply want casual and temporary conversations.The final decision considers not only user needs but also system feasibility and moderation complexity.   
-
 Unlike traditional social platforms that focus on identity and long-term relationships, this design emphasizes temporary interaction and lightweight connections. Anonymity introduces a key trade-off between engagement and accountability.It explores how users can still experience a sense of connection without stable identities.Anonymity introduces a key trade-off between engagement and accountability.The final decision considers not only user needs but also system feasibility and moderation complexity.  
 
 ---
@@ -35,9 +33,7 @@ This concept focuses more on behavioral patterns and emotional needs rather than
 ### Group Discussion  
 
 During the group discussion, we evaluated each idea based on uniqueness, user value, and scope of implementation. The anonymous community stood out because it offers a different model of interaction compared to typical social platforms.  
-
 The core interaction is based on randomness and anonymity. Users are assigned a random identity and enter rooms without knowing others’ identities. This reduces social pressure and allows more spontaneous communication.    
-
 A key feature is the repeated encounter system, which informs users if they have met before. This introduces a subtle sense of continuity without requiring fixed relationships, creating a balance between unfamiliarity and familiarity.  
 
 ---
@@ -56,5 +52,4 @@ The core tasks include:   
 ### Conclusion
 
 This week helped establish a clear and focused design direction through group collaboration. The selected concept not only responds to user needs but also offers a distinct interaction model.  
-
 The use of tickets also clarified how the system can be developed step by step, making the project more feasible.  The next step is to translate this concept into a working prototype and test how the interaction functions in practice.  
