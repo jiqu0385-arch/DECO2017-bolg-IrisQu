@@ -8,7 +8,7 @@ tags:
   - anonymous interaction
 ---
 ### Introduction
-This week focuses on developing the system into a wireframe and organising the user experience through a clear page structure. At this stage, the design does not emphasise visual detail, but instead focuses on how users move between different interaction stages. The overall goal is to construct a low-pressure, flexible, and anonymous social system that allows users to interact without burden or social expectation.
+This week focuses on developing the system into a wireframe and organising the user experience through a clear page structure. The wireframe represents how user cognitive load is distributed across interaction stages, not just page structure.At this stage, the design does not emphasise visual detail, but instead focuses on how users move between different interaction stages. The overall goal is to construct a low-pressure, flexible, and anonymous social system that allows users to interact without burden or social expectation.
 
 ---
 This is our wireframe:
@@ -18,7 +18,7 @@ This is our wireframe:
 The entry page acts as the first point of contact with the system. It adopts a minimal design strategy by reducing visual and interactive elements to lower cognitive load. Users can enter the system quickly without complex steps or decision-making processes, which reduces the barrier to entry. This design strengthens the “instant access” experience and increases the likelihood of user engagement.
 
 ### Home Page (Random Rooms)
-After entering the system, users arrive at the home page where randomly generated rooms are displayed. Users can join conversations instantly without prior planning. This mechanism enhances serendipitous interaction, encouraging exploration of different social contexts while reducing decision-making effort and social pressure.
+After entering the system, users arrive at the home page where randomly generated rooms are displayed. Users can join conversations instantly without prior planning. This mechanism enhances serendipitous interaction, encouraging exploration of different social contexts while reducing decision-making effort and social pressure.Randomness improves exploration but reduces user control and predictability.
 
 ### Plus Page (Room Options)
 The “+” page acts as a functional branching point, offering users two choices: creating a room or joining an existing one. This page introduces a level of control on top of randomness, allowing users to adjust their interaction approach based on their needs. It balances system openness with user agency, supporting different behavioural patterns within the same structure.

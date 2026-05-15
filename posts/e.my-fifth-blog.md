@@ -8,7 +8,7 @@ tags:
   - interaction
 ---
 ### Introduction
-This week focuses on turning the wireframe and system planning into a working prototype. Instead of only analysing structure through DDD and ERD, the project now starts to focus on how the interface actually behaves when users interact with it. The main goal is to build a usable version of the Liminal anonymous chat website with basic navigation, interaction, and visual style.
+This week focuses on turning the wireframe and system planning into a working prototype. Instead of only analysing structure through DDD and ERD, the project now starts to focus on how the interface actually behaves when users interact with it. The transition from design to implementation reflects constraint-driven decision making.The main goal is to build a usable version of the Liminal anonymous chat website with basic navigation, interaction, and visual style.
 
 ---
 ### Core Function Development
@@ -29,7 +29,7 @@ Before this step, the page connections felt a bit separated, but now the flow is
 
 We changed the room selection page layout from a simple vertical list into a card-based layout. Each room is displayed as a visual card with a background image and title, similar to Pinterest-style browsing.
 
-This made the page feel more visual and easier to explore, instead of just reading text options.
+This made the page feel more visual and easier to explore, instead of just reading text options.Floating action and card-based design improve usability but reduce feature discoverability and accessibility.
 
 ---
 ### Interaction Design Improvement

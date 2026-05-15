@@ -8,9 +8,9 @@ summary: Discussed and evaluated ideas, selected the anonymous emotional support
 
 After exploring multiple ideas in Week 6, our group selected the anonymous emotional support community as the final concept after discussion and comparison. The decision was based on three key factors: clarity of user needs, uniqueness of interaction, and feasibility for development.   
 
-This concept targets users who prefer low-pressure and anonymous interaction, especially those who feel uncomfortable revealing their identity online. These users may feel socially fatigued, avoid traditional social media, or simply want casual and temporary conversations.   
+This concept targets users who prefer low-pressure and anonymous interaction, especially those who feel uncomfortable revealing their identity online. These users may feel socially fatigued, avoid traditional social media, or simply want casual and temporary conversations.The final decision considers not only user needs but also system feasibility and moderation complexity.   
 
-Unlike traditional social platforms that focus on identity and long-term relationships, this design emphasizes temporary interaction and lightweight connections. It explores how users can still experience a sense of connection without stable identities.  
+Unlike traditional social platforms that focus on identity and long-term relationships, this design emphasizes temporary interaction and lightweight connections. Anonymity introduces a key trade-off between engagement and accountability.It explores how users can still experience a sense of connection without stable identities.Anonymity introduces a key trade-off between engagement and accountability.The final decision considers not only user needs but also system feasibility and moderation complexity.  
 
 ---
 ### Target Users    

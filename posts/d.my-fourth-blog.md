@@ -9,7 +9,7 @@ tags:
   - anonymous chat
 ---
 ### Introduction
-This week focuses on organising the anonymous chat system into DDD and ERD structures. Instead of mainly thinking about interface layout, the process begins to focus on what information the system needs to store and how different pages connect together. Through this process, the project starts moving from a visual wireframe into a more complete system structure.
+This week focuses on organising the anonymous chat system into DDD and ERD structures. Instead of mainly thinking about interface layout, the process begins to focus on what information the system needs to store and how different pages connect together. Through this process, the project starts moving from a visual wireframe into a more complete system structure.The system is better understood as a state-based interaction model rather than isolated pages.
 
 ---
 ### Entry Page
@@ -17,6 +17,7 @@ This week focuses on organising the anonymous chat system into DDD and ERD struc
 ![alt text](../images/DDD1.png)
 
 While analysing the Entry Page, I realised that even though the page looks simple, the system still needs to create a `user_id` and `session_id` after the user clicks Start. Before doing the DDD table, I did not really think about how anonymous users are separated inside the system. This made me realise that anonymous interaction still requires some form of user tracking in the background.
+Session-based identity creates a trade-off between anonymity and system control.
 
 ### Random Room Page
 
