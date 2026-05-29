@@ -20,7 +20,7 @@ Because the platform was developed using HTML, CSS, and JavaScript, the pages re
 
 To further evaluate the system, a Lighthouse audit was conducted using Google Chrome Developer Tools. The prototype achieved a performance score of 90 and an accessibility score of 100. These results indicate that the website performs efficiently during normal use and provides a strong foundation for usability and accessibility.
 
-![Lighthouse](../images/lighthouse.png)
+![Lighthouse](/images/lighthouse.png)
 
 The Lighthouse results also aligned with observations from testing. Users were able to navigate between pages, create rooms, and communicate without major technical issues. This suggests that the system successfully met its basic performance requirements.
 
@@ -39,7 +39,7 @@ The primary goal of Liminal was to create a comfortable anonymous environment th
 
 ### Testing Summary
 
-![Evaluation evidence table](../images/Table.png)
+![Evaluation evidence table](/images/Table.png)
 
 One of the strongest aspects of the experience was the room-based structure. Users could browse different rooms through visual room cards rather than a simple text-based list. The combination of room names, categories, and customised backgrounds helped create distinct identities for each room and encouraged exploration.
 
