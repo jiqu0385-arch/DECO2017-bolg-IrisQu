@@ -12,7 +12,7 @@ This week focuses on developing the system into a wireframe and organising the u
 
 ---
 This is our wireframe:
-![alt text](../images/wireframe.png)
+![alt text](/images/wireframe.png)
 ---
 ### Entry Page
 The entry page acts as the first point of contact with the system. It adopts a minimal design strategy by reducing visual and interactive elements to lower cognitive load. Users can enter the system quickly without complex steps or decision-making processes, which reduces the barrier to entry. This design strengthens the “instant access” experience and increases the likelihood of user engagement.
